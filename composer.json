@@ -3,6 +3,7 @@
   "description": "Generates random tokens",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Alexander",
@@ -14,5 +15,7 @@
       "TokenGenerator\\RandomTokenGenerator\\": "src/"
     }
   },
+
   "require": {}
+
 }

@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit90b6f9ab4b8f97570f1bd136c8c96136
 {
     public static $prefixLengthsPsr4 = array (
-        'T' => 
+        'A' => 
         array (
-            'TokenGenerator\\RandomTokenGenerator\\' => 36,
+            'Alexander\\RandomTokenGeneratorAlexander157\\' => 43,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'TokenGenerator\\RandomTokenGenerator\\' => 
+        'Alexander\\RandomTokenGeneratorAlexander157\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

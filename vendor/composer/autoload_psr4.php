@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'TokenGenerator\\RandomTokenGenerator\\' => array($baseDir . '/src'),
+    'Alexander\\RandomTokenGeneratorAlexander157\\' => array($baseDir . '/src'),
 );

@@ -1,25 +1,25 @@
 {
-  "name": "token-generator/random-token-generator-alexander157",
-  "description": "Generates random tokens",
-  "type": "library",
-  "license": "MIT",
-  "minimum-stability": "dev",
-  "authors": [
-    {
-      "name": "Alexander",
-      "email": "Alexander157@yandex.ru"
-    }
-  ],
-  "autoload": {
-    "psr-4": {
-      "TokenGenerator\\RandomTokenGenerator\\": "src/"
-    }
-  },
+    "name": "token-generator/random-token-generator-alexander157",
+    "description": "Generates random tokens",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "Alexander157@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TokenGenerator\\RandomTokenGenerator\\": "src/"
+        }
+    },
 
-  "require": {
-    "php": ">=7.4"
-  },
+    "require": {
+        "php": ">=7.4"
+    },
 
-  "version": "1.0.0"
+    "version": "1.0.0"
 
 }
